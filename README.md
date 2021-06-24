@@ -1,8 +1,8 @@
 # Hileo's Prime Language Translation System
 
-A System designed for Customers and the Customer Service Team. 
+The Language Translation System was built using Google translate API https://rapidapi.com/googlecloud/api/google-translate1/ 
 
-The system was designed to:
+The system written in Python was designed to:
 
 * registers Customer's complaints in different languages
 * aid the Customer Service team to detect complaint language
